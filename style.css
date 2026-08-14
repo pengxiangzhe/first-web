@@ -1,0 +1,43 @@
+body{
+    color:rgb(255, 0, 0);
+    background-image:url("screenshot_20260811_175627_456.jpg");
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-size:300px;
+    font-weight:bold;
+    margin-top:600px;
+
+    background-image:url("screenshot_20260811_175413_852.jpg");
+
+    background-size:cover;
+    background-position: center;
+
+    background-clip: text;
+    -webkit-background-clip: text;
+
+    color:transparent;
+
+}
+p{
+    font-size:50px;
+    color:rgb(243, 243, 239);
+    text-align:center;
+    font-family:"宋体";
+    font-weight:bold;
+    text-decoration:underline;
+    font-style:italic;
+}
+#search1 * {
+    font-size:50px;
+}
+input{
+    background-image:url("screenshot_20260813_135452_614.jpg")
+}
+button{
+    background-image:url("screenshot_20260813_135452_614.jpg")
+}
+.information{
+    color:white;
+}
